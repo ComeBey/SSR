@@ -1,22 +1,16 @@
 #!/usr/bin/env bash
 PATH=/bin:/sbin:/usr/bin:/usr/sbin:/usr/local/bin:/usr/local/sbin:~/bin
 export PATH
-#=================================================================#
-#   System Required:  CentOS 6,7, Debian, Ubuntu                  #
-#   Description: One click Install ShadowsocksR Server            #
-#   Author: Teddysun <i@teddysun.com>                             #
-#   Thanks: @breakwa11 <https://twitter.com/breakwa11>            #
-#   Intro:  https://shadowsocks.be/9.html                         #
-#=================================================================#
+#===================================================================================================#
+#   System Required:  CentOS 6,7, Debian, Ubuntu                                                    #
+#   Description: One click Install ShadowsocksR Server                                              #
+#   youtube关注https://www.youtube.com/channel/UCiMTLB5vELIq3Dz9muBRfJw                             #
+#                                                                                                   #
+#                                                                                                   #
+#===================================================================================================#
 
 clear
 echo
-echo "#############################################################"
-echo "# One click Install ShadowsocksR Server                     #"
-echo "# Intro: https://shadowsocks.be/9.html                      #"
-echo "# Author: Teddysun <i@teddysun.com>                         #"
-echo "# Github: https://github.com/shadowsocksr/shadowsocksr      #"
-echo "#############################################################"
 echo
 
 libsodium_file="libsodium-1.0.17"
