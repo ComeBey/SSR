@@ -4,7 +4,9 @@ export PATH
 #===================================================================================================#
 #   System Required:  CentOS 6,7, Debian, Ubuntu                                                    #
 #   Description: One click Install ShadowsocksR Server                                              #
-#   youtube关注https://www.youtube.com/channel/UCiMTLB5vELIq3Dz9muBRfJw                             #
+#   youtube关注https://bit.ly/38KzyU4                                                               #
+#   blog:https://rootfw.com                                                                         #
+#                                                                                                   #
 #                                                                                                   #
 #                                                                                                   #
 #===================================================================================================#
